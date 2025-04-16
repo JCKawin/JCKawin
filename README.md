@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JCKawin
-- 👀 I’m interested in animation
-- 🌱 I’m currently mastering python
+- 👀 I’m interested in game development
+- 🌱 I’m currently mastering C++
 - 💞️ I’m looking to collaborate on git
-- 📫 How to reach me @jckawin <instra>
+- 📫 You can reach me @jckawin <instra>
 - 😄 Pronouns: he\him\his
 
 <!---
